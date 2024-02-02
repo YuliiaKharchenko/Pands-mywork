@@ -1,4 +1,4 @@
-# addOne.py
+# addOne
 # This programm reads on a number and prints out one more than that number
 # Autor Yuliia Kharchenko 
 
